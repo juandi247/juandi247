@@ -12,8 +12,9 @@
 - 📖 I’m currently learning: Springboot
 - 🗣️ Languages: English, German, and Spanish
 - 📚 I enjoy: learning new technologies, playing sports, and exploring different cultures
-- 🎮 Hobbies: gaming, hiking, and reading about technology trends
--📍 Current location: Colombia
+- ⚾ Hobbies: sports, hiking, and reading about technology trends
+- 📍 Current location: Colombia
+  
 <br/>
 
 
