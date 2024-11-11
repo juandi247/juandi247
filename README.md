@@ -49,7 +49,7 @@
 ### [Sprache App: A Language Learning App for Spanish Speakers](https://github.com/yourusername/sprache-app) (Backend Developer)
 A mobile application designed for Spanish speakers to learn German, utilizing technologies such as Django REST Framework, Docker, and Azure.
 
-### [Cocina 4.0: Kitchen Data Monitoring App](https://github.com/yourusername/cocina-4-0) (Backend Developer)
+### [Cocina 4.0: Kitchen Data Monitoring App](https://github.com/juandi247/IOT_Project) (Backend Developer)
 An application for monitoring kitchen data using real sensors and digital twins, transmitting data to Django REST Framework for real-time visualization in Grafana. Implemented with IoTHub, Cosmos DB, Django REST Framework, and other technologies.
 </p>
 
