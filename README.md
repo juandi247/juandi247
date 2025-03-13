@@ -8,7 +8,8 @@
 <h3> 👷‍♂️ &nbsp;About Me </h3>
 
 - 🔭 I’m a backend developer and data analyst with over 1 year of experience, currently pursuing a Bachelor’s degree in Systems Engineering at UNAB, expected to graduate in 2025.
-- ☕ : My favorite language: Java and Python
+- 🛠 Currently learning Typescript
+- ☕ My favorite language: Java and Python
 - 🗣️ Languages: English, German, and Spanish
 - 📚 I enjoy: learning new technologies, playing sports, and exploring different cultures
 - ⚾ Hobbies: sports, hiking, and reading about technology trends
