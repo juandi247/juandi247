@@ -5,7 +5,7 @@ I´m Juan Diego Díaz – Software Developer
 
 ⚡ My technical expertise includes:
 
- -  Backend Development: Python (Flask, Django, DRF), Java (Spring Boot, Quarkus)
+ -  Backend Development: Java (Spring Boot, Quarkus),  Python (Flask, Django, DRF),
   
  -  Cloud Infrastructure: AWS, GCP, Terraform
   
@@ -13,6 +13,6 @@ I´m Juan Diego Díaz – Software Developer
   
  -  Tools: Docker, Git, Azure
 
-🔍 Always eager to learn and build scalable, efficient systems. Passionate about working with innovative technologies and creating impactful solutions.
+🔍 Passionate about distributed systems, software architecture, and building scalable, efficient solutions.
 
 🌍 Fluent in Spanish, English, and German.
