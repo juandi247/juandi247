@@ -7,11 +7,11 @@ I´m Juan Diego Díaz – Software Developer
 
  -  Backend Development: Java (Spring Boot, Quarkus),  Python (Flask, Django, DRF),
   
- -  Cloud Infrastructure: AWS, GCP, Terraform
+ -  Cloud Infrastructure: GCP(Cloud Run,Artifact Registry, Storage, BigQuery, Firebase, Cloud Functions)  AWS (EC2, S3, RDS, Elasticache,Lambdas)
   
    -  Mobile Development: React Native (with Expo)
   
- -  Tools: Docker, Git, Azure
+ -  Tools: Docker, Git, GithubActions, Terraform.
 
 🔍 Passionate about distributed systems, software architecture, and building scalable, efficient solutions.
 
